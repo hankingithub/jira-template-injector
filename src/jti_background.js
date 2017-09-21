@@ -46,7 +46,7 @@ if (browserType !== 'Firefox') {
 
 var StorageID = 'Jira-Template-Injector';
 var DefaultDomainList = [
-    {'name': 'atlassian.net'}
+    {'name': 'hubspotcentral.com'}
 ];
 var StorageToggleID = 'JTI-Toggle';
 var emptyData = {'options': {'limit': [], 'domains': []}, 'templates': {}};
